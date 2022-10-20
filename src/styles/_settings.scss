@@ -14,12 +14,16 @@ $white: rgb(243, 243, 243);
   display: flex;
   justify-content: center;
   align-items: center;
+  
 }
 
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  margin-left: 10px;
+  margin-right: 10px;
+  
 }
 
 body {
