@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test_react/static/css/main.2f106339.css",
+    "main.js": "/test_react/static/js/main.2a9e1748.js",
+    "static/media/main.jpg": "/test_react/static/media/main.f9849987e803b28d974c.jpg",
+    "static/media/AtkinsonHyperlegible-Regular.ttf": "/test_react/static/media/AtkinsonHyperlegible-Regular.b67275748172037676f3.ttf",
+    "index.html": "/test_react/index.html",
+    "main.2f106339.css.map": "/test_react/static/css/main.2f106339.css.map",
+    "main.2a9e1748.js.map": "/test_react/static/js/main.2a9e1748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f106339.css",
+    "static/js/main.2a9e1748.js"
+  ]
+}
